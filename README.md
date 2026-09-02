@@ -21,5 +21,5 @@ Deployed a static website on AWS using a custom VPC architecture with public/pri
 <img width="1920" height="1080" alt="Screenshot 2026-09-02 102422" src="https://github.com/user-attachments/assets/f06d8692-db5a-46ba-a87b-65195b8062c4" />
 <img width="1920" height="1080" alt="Screenshot 2026-09-02 102948" src="https://github.com/user-attachments/assets/5adc2797-4f55-4f9b-8eca-f87303007e96" />
 <img width="1920" height="1080" alt="Screenshot 2026-09-02 102523" src="https://github.com/user-attachments/assets/6511b277-dd2b-4b2f-bda1-bcf9aa171d4f" />
-# Tech Used
+# TechUsed
 AWS VPC, EC2, Auto Scaling Group, Application Load Balancer, S3
